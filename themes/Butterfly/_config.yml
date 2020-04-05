@@ -107,7 +107,7 @@ mermaid:
 # Post info settings
 # ---------------
 avatar:
-  img: /img/avatar.png
+  img: https://s.gravatar.com/avatar/1d8cfdbdb7e9ef0a6924f6b013c2f333?s=80
   effect: true # 頭像會一直轉圈
 
 # the banner image of index
